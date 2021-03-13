@@ -3,7 +3,7 @@
 
 Assignment for ceng495 course. The assignment's details can be seen in `Hw2.pdf`
 
-Heroku link: (NOTE: I modified the heroku app code, removed POST/DELETE requests and that react pages so my Breaking Bad/Better Call Saul themed users and inventions cannot get modified/deleted)
+**Heroku link:** (**NOTE:** I modified the heroku app code, removed POST/DELETE requests and that react pages so my Breaking Bad/Better Call Saul themed users and inventions cannot get modified/deleted)
 https://inventiongallery.herokuapp.com/
 
 This application is implemented using [React](https://tr.reactjs.org/) in the front-end and [Node.js](https://nodejs.org/en/) in the back-end.
